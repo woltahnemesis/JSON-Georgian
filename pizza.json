@@ -1,22 +1,17 @@
-// JSON File
-
 {
     "pizzaTypes" : [
         
-        //First object
         {
-            //Always double qoutes
+
             "name" : "Classic Pepperoni",
             "price" : 10.95,
             "size" : "large",
-            //array
             "toppings" : [
                 "cheese", "pepperoni"
             ],
             "image" : "pizza-1.jpg"
         },
         
-        //Second Object
         {
             
             "name" : "Veggie Delight",
@@ -31,7 +26,6 @@
             "image" : "pizza-2.jpg"
         },
         
-        //Third object
         {
             "name" : "Hawaiin",
             "price" : 12.00,
@@ -43,7 +37,5 @@
             ],
             "image" : "pizza-3.jpg"
         }
-    ]
-    
-    
+    ]  
 }
