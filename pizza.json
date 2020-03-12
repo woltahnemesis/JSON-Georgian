@@ -1,0 +1,49 @@
+// JSON File
+
+{
+    "pizzaTypes" : [
+        
+        //First object
+        {
+            //Always double qoutes
+            "name" : "Classic Pepperoni",
+            "price" : 10.95,
+            "size" : "large",
+            //array
+            "toppings" : [
+                "cheese", "pepperoni"
+            ],
+            "image" : "pizza-1.jpg"
+        },
+        
+        //Second Object
+        {
+            
+            "name" : "Veggie Delight",
+            "price" : 14.00,
+            "size" : "medium",
+            "toppings" : [
+               "cheese",
+                "green olives",
+                "tomatoes",
+                "onions"
+            ],
+            "image" : "pizza-2.jpg"
+        },
+        
+        //Third object
+        {
+            "name" : "Hawaiin",
+            "price" : 12.00,
+            "size" : "large",
+            "toppings" : [
+                "cheese",
+                "ham",
+                "pineapple"
+            ],
+            "image" : "pizza-3.jpg"
+        }
+    ]
+    
+    
+}
